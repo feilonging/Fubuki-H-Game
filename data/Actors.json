@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Uncle_walk","classId":2,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"Uncle","traits":[],"initialLevel":35,"maxLevel":99,"name":"播種大叔","nickname":"大叔❤","note":"","profile":"有錢到可以無所不能的蜀叔，學會催眠術後就再也沒穿\n過衣服了。"},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"F","classId":1,"equips":[2,1,0,3,0],"faceIndex":4,"faceName":"Uncle","traits":[],"initialLevel":18,"maxLevel":99,"name":"Fubuki","nickname":"Fubuki","note":"","profile":"活躍於網路世界的Vtuber，住在深山裡祖父的老屋子中。"}
+]
